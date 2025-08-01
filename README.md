@@ -1,17 +1,13 @@
 # Hello, I'm Mrinal
 <a href="https://www.linkedin.com/in/mrinal00/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
-[Brief Introduction - Remove this afterwards]
-
-I am a recent graduate with a profound interest in technology and a dedication to solving complex problems.
+Passionate and dedicated SOC Analyst with a strong commitment to strengthening an organization's security posture. I possess a solid understanding of threat detection, incident response, and cybersecurity frameworks. Eager to apply my analytical skills and knowledge of security tools to proactively identify and mitigate threats, contributing to a secure digital environment
 
 ## Objective
-[Provide Objective - Remove this afterwards]]
 
-My journey in computer science has led me to develop a passion for cybersecurity, and I am now eager to transition into this field, specifically aiming to join a Security Operations Center (SOC) as a Tier 1 Analyst.
+A highly motivated and analytical individual with a strong foundation in. Critical thinking, research, structured problem-solving. My passion for cybersecurity has driven me to develop a solid understanding of threat detection, incident response, and security frameworks. I am eager to apply my skills to a Tier 1 SOC Analyst role and contribute to a team dedicated to protecting digital assets.
 
 ## Skills
-[Provide skills and associated project. Make sure to hyperlink the project - Remove this afterwards]]
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
