@@ -1,56 +1,87 @@
 # Hello, I'm Mrinal
-<a href="https://www.linkedin.com/in/mrinal00/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
-Passionate and dedicated SOC Analyst with a strong commitment to strengthening an organization's security posture. I possess a solid understanding of threat detection, incident response, and cybersecurity frameworks. Eager to apply my analytical skills and knowledge of security tools to proactively identify and mitigate threats, contributing to a secure digital environment
+<a href="https://www.linkedin.com/in/mrinal00/">
+  <img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+
+## About Me
+
+I'm an aspiring SOC Analyst curious about how computers, networks, and digital systems work. I enjoy troubleshooting technical problems and investigating security events to understand what happened, how an attack occurred, and what should happen next.
+I learn by building, experimenting, and troubleshooting.
 
 ## Objective
 
-A highly motivated and analytical individual with a strong foundation in. Critical thinking, research, structured problem-solving. My passion for cybersecurity has driven me to develop a solid understanding of threat detection, incident response, and security frameworks. I am eager to apply my skills to a Tier 1 SOC Analyst role and contribute to a team dedicated to protecting digital assets.
+I am building a career in Security Operations by developing practical skills in security monitoring, log analysis, network troubleshooting, threat detection, and incident investigation. I am seeking a Tier 1 SOC Analyst opportunity where I can apply my hands-on lab and project experience, strengthen my investigative skills, and contribute to the detection, investigation, and response to security incidents while continuing to learn and grow as a security analyst.
+
+## Projects
+
+### Azure ELK Security Lab
+
+A hands-on security lab built using Azure Virtual Machines and the ELK Stack.
+
+* Designed a multi-VM lab environment and logical network architecture
+* Configured and troubleshot connectivity between virtual machines
+* Deployed and configured the ELK Stack
+* Collected and analyzed security logs
+* Simulated and detected security attacks
+* Investigated logs to understand attack activity
+* Created security alerts and dashboards
+* Integrated a ticketing workflow for incident management
+
+### Splunk SOC Investigation Lab
+
+*Planned / In Progress*
+
+A hands-on SOC investigation lab focused on using Splunk for security monitoring, detection, alert investigation, and incident analysis.
 
 ## Skills
 
-| Skill                                         | Associated Project         |
-|-----------------------------------------------|----------------------------|
-| SIEM Implementation and Log Analysis          | <a href="https://google.com">Detection Lab</a>|
-| Network Traffic Monitoring and Attack Detection | <a href="https://google.com">Detection Lab</a>|
-| Security Automation with Shuffle SOAR         | SOC Automation Lab|
-| Incident Response Planning and Execution      | SOC Automation Lab|
-| Case Management with TheHive                  | SOC Automation Lab|
-| Scripting and Automation for Threat Mitigation | SOC Automation Lab|
+| Skill                                   | Associated Project     |
+| --------------------------------------- | ---------------------- |
+| SIEM Implementation & Log Analysis      | Azure ELK Security Lab |
+| Network Configuration & Troubleshooting | Azure ELK Security Lab |
+| Security Event Investigation            | Azure ELK Security Lab |
+| Threat Detection                        | Azure ELK Security Lab |
+| Security Alerts & Dashboards            | Azure ELK Security Lab |
+| Incident Documentation & Ticketing      | Azure ELK Security Lab |
 
 ## Tools
-[Provide tools and break them down into categories. Use ChatGPT to help create the link - Remove this afterwards]]
 
-### Network
+### Cloud & Networking
+
 <div>
-    <img src="https://img.shields.io/badge/-Wireshark-1679A7?&style=for-the-badge&logo=Wireshark&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Suricata-EF3B2D?&style=for-the-badge&logo=Suricata&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Zeek-777BB4?&style=for-the-badge&logo=Zeek&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Microsoft_Azure-0078D4?&style=for-the-badge&logo=microsoftazure&logoColor=white" />
 </div>
 
-### Endpoint
+### Endpoint & Telemetry
+
 <div>
-    <img src="https://img.shields.io/badge/-Microsoft_Defender_for_Endpoint-00A4EF?&style=for-the-badge&logo=Microsoft&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Velociraptor-4B275F?&style=for-the-badge&logo=Velociraptor&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Sysmon-0078D4?&style=for-the-badge&logo=Microsoft&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Microsoft_Defender-00A4EF?&style=for-the-badge&logo=Microsoft&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Linux-FCC624?&style=for-the-badge&logo=linux&logoColor=black" />
 </div>
 
-### SIEM
+### SIEM & Log Analysis
+
 <div>
-    <img src="https://img.shields.io/badge/-Microsoft_Sentinel-0078D4?&style=for-the-badge&logo=Microsoft&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Splunk-000000?&style=for-the-badge&logo=Splunk&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Elastic-005571?&style=for-the-badge&logo=Elastic&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Elasticsearch-005571?&style=for-the-badge&logo=elasticsearch&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Kibana-005571?&style=for-the-badge&logo=kibana&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Elastic_Fleet-005571?&style=for-the-badge&logo=elastic&logoColor=white" />
 </div>
+
+### Attack Simulation
+
+<div>
+    <img src="https://img.shields.io/badge/-Mythic-222222?&style=for-the-badge&logoColor=white" />
+</div>
+
+### Case Management & Ticketing
+
+<div>
+    <img src="https://img.shields.io/badge/-osTicket-4A4A4A?&style=for-the-badge&logoColor=white" />
+</div>
+
 
 ## Certifications
-[Provide certifications that you have obtained. Use ChatGPT to help create the link - Remove this afterwards]]
-<div>
-<img src="https://img.shields.io/badge/-Security%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" />
-<img src="https://img.shields.io/badge/-Network%2B-007ACC?&style=for-the-badge&logo=CompTIA&logoColor=white" />
-<img src="https://img.shields.io/badge/-A%2B-4D4D4D?&style=for-the-badge&logo=CompTIA&logoColor=white" />
-<img src="https://img.shields.io/badge/-CDSA-006400?&style=for-the-badge&logoColor=white" />
-<img src="https://img.shields.io/badge/-CCD-000080?&style=for-the-badge&logoColor=white" />
-</div>
 
-## Projects
-- Detection Lab
-- SOC Automation Project
+* **Google Cybersecurity Professional Certificate** — [Verify on Credly](https://www.credly.com/badges/d6d8c2c7-87e4-4646-9b22-9763c1c8437d/public_url)
